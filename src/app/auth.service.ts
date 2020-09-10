@@ -11,7 +11,7 @@ export class AuthService {
     return promise;
   }
 
-  loging() {
+  login() {
     this.loggedIn = true;
   }
 
